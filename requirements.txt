@@ -1,0 +1,3 @@
+# osu-mania-parser Python version
+# No external dependencies required - uses only Python standard library
+# Requires Python 3.7+ for dataclasses and typing support
