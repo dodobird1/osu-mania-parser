@@ -1,5 +1,7 @@
 # osu-mania-parser
 
+original license:
+
 A module that converts osu!mania beatmaps into a Javascript Object. This allows users to easily convert their osu!mania beatmaps for use in other VSRGs.
 
 This parser is made specifically for osu!mania. As such, support for the other game modes is highly unlikely.
